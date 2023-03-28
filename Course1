@@ -4,9 +4,8 @@ You can choose one module from the list below:-
 2)Divide and Conquer Algorithms
 3)Dynamic Programming
 
-
-Pawan Dubey
+Debasish Mondal
 Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Understanding the problems and implementing a solution which is space and time efficient by structuring it into sub problems and solving each subproblem just once, and then storing their solutions to avoid repetitive computations.
 
 
